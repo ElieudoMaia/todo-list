@@ -1,5 +1,5 @@
 # TO DO
-## Lista de atividade a fazer
+## Lista de atividades a fazer
 
 ## Project setup
 ```
